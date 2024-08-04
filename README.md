@@ -33,3 +33,10 @@ The Gang of Four (GoF), consisting of Erich Gamma, Richard Helm, Ralph Johnson, 
 * Strategy
 * Template Method
 * Visitor
+
+<!-- 
+In my personal opinion, the most useful are:
+Creational: Singleton, Abstract Factory and Prototype.
+Structural: .
+Behavioral: .
+-->
