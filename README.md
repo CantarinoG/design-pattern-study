@@ -37,6 +37,6 @@ The Gang of Four (GoF), consisting of Erich Gamma, Richard Helm, Ralph Johnson, 
 <!-- 
 In my personal opinion, the most useful are:
 Creational: Singleton, Abstract Factory and Prototype.
-Structural: .
+Structural: All of them(although the facade is very simple and I would be able to use it on my own instinctively, so I should not worry about it).
 Behavioral: .
 -->
