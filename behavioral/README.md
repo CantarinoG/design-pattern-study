@@ -1,7 +1,7 @@
 # Behavioral Design Patterns
 
 ## Chain of Responsibility:
-asses a request along a chain of handlers, where each handler either handles the request or passes it to the next handler in the chain. This pattern decouples the sender of a request from its receivers.
+Passes a request along a chain of handlers, where each handler either handles the request or passes it to the next handler in the chain. This pattern decouples the sender of a request from its receivers.
 
 ## Command:
 Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations. It also provides support for undoable operations.
